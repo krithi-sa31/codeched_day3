@@ -1,2 +1,2 @@
-# codeched_day3
+# codechef_day3
 day3 problems
